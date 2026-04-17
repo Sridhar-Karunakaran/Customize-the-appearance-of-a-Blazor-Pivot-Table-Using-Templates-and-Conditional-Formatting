@@ -353,8 +353,6 @@ A: WebAssembly rendering is performant. For large datasets (10,000+ rows), consi
 
 - 🔗 **Syncfusion Blazor Pivot Table Docs**: https://blazor.syncfusion.com/documentation/pivot-table/
 - 🔗 **Official Demo**: https://blazor.syncfusion.com/demos/pivot-table/overview
-- 🔗 **.NET 8.0 Documentation**: https://learn.microsoft.com/en-us/dotnet/
-- 🔗 **Blazor WebAssembly Guide**: https://learn.microsoft.com/en-us/aspnet/core/blazor/webassembly/
 
 ---
 
