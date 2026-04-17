@@ -1,6 +1,6 @@
 # 📊 Customize Blazor Pivot Table Appearance with Templates & Conditional Formatting
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-SEE%20LICENSE-blue.svg)](https://www.syncfusion.com/content/downloads/syncfusion_license.pdf)
 [![.NET 8.0](https://img.shields.io/badge/.NET-8.0-512BD4.svg)](https://dotnet.microsoft.com/)
 [![Blazor WebAssembly](https://img.shields.io/badge/Blazor-WebAssembly-blueviolet.svg)](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 [![Syncfusion](https://img.shields.io/badge/Syncfusion-Blazor%20UI-green.svg)](https://www.syncfusion.com/blazor-components)
